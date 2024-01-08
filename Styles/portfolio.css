@@ -174,3 +174,48 @@ main {
     font-size: 16px;
     font-weight: 400;
 }
+
+.Resume {
+    margin-top: 130px;
+}
+
+.Resume-columns-container {
+    display: flex;
+    gap: 71px;
+}
+
+.Education,
+.experience {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.Education-title,
+.experience-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Education-institute,
+.experience-institute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.Education-details,
+.experience-details {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#Download-CV{
+    text-align: center;
+    margin-top: 50px;
+}
